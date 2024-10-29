@@ -1,24 +1,24 @@
 criaCartao(
-    'Programação',
-    'O que é JavaScript?',
-    'O javaScript é uma linguagem de progamação'
+    'História',
+    'Quem foi o primeiro presidente dos Estados Unidos?',
+    ' George Washington.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual é a capital da Russia?',
-    'A capital da Russia é Mouscou'
+    'Qual é o maior deserto do mundo?',
+    'O deserto da Antártica.'
 )
 
 criaCartao(
     'matematica',
-    'Qual é o resultado de 9 x 9?',
-    'O resultado é 81'
+    'Qual é o resultado de 5 X 6?',
+    'O resultado é 30'
 )
 
 criaCartao(
-    'Curiosidade que você já sabe',
-    'você pode usar álcool para limar coisas?',
-    'sim'
+    ' Ciêcias',
+    ' O que é fotossíntese?',
+    'É o processo pelo qual as plantas convertem luz solar em energia.'
     
 )
